@@ -58,6 +58,9 @@ compare result from each method
 ## 4.Build Dashbord
 1. Create Dashboard from Transaction 2017 to present how transaction be in 2017
 
+https://app.powerbi.com/links/LnjlNpLVxb?ctid=8c1832ea-a96d-413e-bf7d-9fe4d608e00b&pbi_source=linkShare
+![image](https://github.com/TongtaiM/Customer-Segmentation-for-Automobile-Company-Using-RFM-analysis/assets/159317591/b04a13a9-6e44-444f-9317-fba6328cc90e)
+
 
 2. Create Dashboard from CustomerDemographic to present each segment of customer
    
