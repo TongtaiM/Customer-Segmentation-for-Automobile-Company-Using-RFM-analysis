@@ -31,9 +31,13 @@ This step focus in clean data make it to ready use
 ## 3.RFM analysis
 Calculate RFM from each customer including
 1.Recency  : Calculate the number of days since the last transaction for each customer.
+
 2.Frequency: Calculate the number of transactions each customer had in 2017.
+
 3.Monery   : Calculate both calculations for the monetary 
+
              - Average Spending (Mean): Calculate the average amount spent by each customer in 2017.
+             
              - Total Spending (Sum): Calculate the total amount spent by each customer in 2017.
 
 Once I have calculated RFM scores for each customer, I can segment them using 3 methods:
