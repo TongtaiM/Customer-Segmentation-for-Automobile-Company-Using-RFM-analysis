@@ -7,16 +7,24 @@ This project aims to improve customer understanding and potentially increase rev
 ### This Project folowing this step
 ## 1. Understand data
 This dataset include
+
 Transaction 2017: This file contains transaction data from the year 2017, including details about customer purchases across various states in Australia.
+
 CustomerDemographic: This file contains details about the customers, such as age, gender, job
+
 NewCustomerList: This file contains details about the new customers. It likely includes additional features beyond those found in CustomerDemographics.
+
 CustomerAddress: This file stores the addresses of the customers.
 
 ## 2.Prepare data
 This step focus in clean data make it to ready use
-- identify missing values in each column and choose the best approach to handle them. In this data set i dropping rows or columns with a high percentage of missing values 
+
+- identify missing values in each column and choose the best approach to handle them. In this data set i dropping rows or columns with a high percentage of missing values
+- 
 - Explore the distribution of numerical features and identify outliers
+
 - Tranfrom feature type into a suitable format such as date
+- 
 - create new features that might be helpful for the analysis. For example, calculate age from the birth date, create full-name from first name and last name
 
 ## 3.RFM analysis
@@ -43,9 +51,11 @@ compare result from each method
 
 ## 4.Build Dashbord
 1. Create Dashboard from Transaction 2017 to present how transaction be in 2017
+
 This dashboard will visualize key trends in transaction data from the year 2017.
 
-2. Create Dashboard from CustomerDemographic to present each segment of customer 
+2. Create Dashboard from CustomerDemographic to present each segment of customer
+   
 This dashboard will provide insights into the different customer segments based on the Customer Demographics data.
 
 This is my first attempt at building a dashboard! (My university doesn't cover this yet, but that's okay).  I know there might be some initial mistakes, but I'm excited to learn and improve with each iteration.
