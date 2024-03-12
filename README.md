@@ -21,15 +21,16 @@ CustomerAddress: This file stores the addresses of the customers.
 This step focus in clean data make it to ready use
 
 - identify missing values in each column and choose the best approach to handle them. In this data set i dropping rows or columns with a high percentage of missing values
-- 
+
 - Explore the distribution of numerical features and identify outliers
 
 - Tranfrom feature type into a suitable format such as date
-- 
+  
 - create new features that might be helpful for the analysis. For example, calculate age from the birth date, create full-name from first name and last name
 
 ## 3.RFM analysis
 Calculate RFM from each customer including
+
 1.Recency  : Calculate the number of days since the last transaction for each customer.
 
 2.Frequency: Calculate the number of transactions each customer had in 2017.
@@ -57,13 +58,14 @@ compare result from each method
 ## 4.Build Dashbord
 1. Create Dashboard from Transaction 2017 to present how transaction be in 2017
 
-This dashboard will visualize key trends in transaction data from the year 2017.
 
 2. Create Dashboard from CustomerDemographic to present each segment of customer
    
-This dashboard will provide insights into the different customer segments based on the Customer Demographics data.
+
 
 This is my first attempt at building a dashboard! (My university doesn't cover this yet, but that's okay).  I know there might be some initial mistakes, but I'm excited to learn and improve with each iteration.
+
+
 
 I learned about RFM analysis on this website. Thank you!
 https://predictive.co.th/en/blog/rfm-analysis/
