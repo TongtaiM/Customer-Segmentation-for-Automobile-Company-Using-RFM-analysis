@@ -20,13 +20,13 @@ CustomerAddress: This file stores the addresses of the customers.
 ## 2.Prepare data
 This step focus in clean data make it to ready use
 
-- identify missing values in each column and choose the best approach to handle them. In this data set i dropping rows or columns with a high percentage of missing values
+- Identify missing values in each column and choose the best approach to handle them. In this data set i dropping rows or columns with a high percentage of missing values
 
 - Explore the distribution of numerical features and identify outliers
 
-- Tranfrom feature type into a suitable format such as date
+- Transfrom feature type into a suitable format such as date
   
-- create new features that might be helpful for the analysis. For example, calculate age from the birth date, create full-name from first name and last name
+- Create new features that might be helpful for the analysis. For example, calculate age from the birth date, create full-name from first name and last name
 
 ## 3.RFM analysis
 Calculate RFM from each customer including
