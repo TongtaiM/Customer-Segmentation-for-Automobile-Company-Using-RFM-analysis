@@ -5,7 +5,7 @@ I found this dataset from https://github.com/adiag321/Customer-Segmentation-for-
 
 This project aims to improve customer understanding and potentially increase revenue using a dataset from the Automobile industry. The dataset includes customer demographics and 2017 transaction data.
 
-# This Project folowing this step
+# This Project following this step
 ## 1.Understand data
 This dataset include
 
