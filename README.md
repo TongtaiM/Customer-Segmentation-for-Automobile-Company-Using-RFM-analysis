@@ -3,9 +3,13 @@
 ## About this Project
 I found this dataset from https://github.com/adiag321/Customer-Segmentation-for-Automobile-Company
 
-This project aims to improve customer understanding and potentially increase revenue using a dataset from the Automobile industry. The dataset includes customer demographics and 2017 transaction data.
+This dataset consists of four separate CSV files
 
-# This Project following this step
+- This project aims to potentially increase revenue and segmenting customers into distinct groups to better understand and target customer needs.
+- I conducted RFM analysis and segmentation using K-Means clustering, hierarchical clustering, and rule-based methods to compare result.
+- I have create dashboard with power bi to visualize transactions patterns and customer demographics.
+
+# Project following these step
 ## 1.Understand data
 This dataset include
 
