@@ -1,6 +1,4 @@
-# Customer Segmentation for Automobile Company Using RFM-analysis
-
-## About this Project
+# About this Project
 I found this dataset from https://github.com/adiag321/Customer-Segmentation-for-Automobile-Company
 
 This dataset consists of four separate CSV files
